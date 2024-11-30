@@ -80,8 +80,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Avashoot/Avashoot/output/snake.svg" alt="Snake animation" />
-
-###
